@@ -1,0 +1,215 @@
+{
+    "profilePage": [
+        {
+            "id": "image01",
+            "imageURL": ""
+        },
+        {
+            "id": "image02",
+            "imageURL": ""
+        },
+        {
+            "id": "paragraph01",
+            "content": ""
+        },
+        {
+            "id": "paragraph02",
+            "content": ""
+        },
+        {
+            "id": "paragraph03",
+            "content": ""
+        },
+        {
+            "id": "paragraph04",
+            "content": ""
+        },
+        {
+            "id": "paragraph05",
+            "content": ""
+        },
+        {
+            "id": "paragraph06",
+            "content": ""
+        }
+    ],
+    "projectsPage": [
+        {
+            "id": "billyBiscuit",
+            "imageURL": "",
+            "liveURL": "",
+            "clientRepoURL": "",
+            "serverRepoURL": "",
+            "name": "Billy Biscuit: Cookie Collector",
+            "description": "",
+            "technologies": [
+                {
+                    "skillIndex": 0
+                },
+                {
+                    "skillIndex": 1
+                },
+                {
+                    "skillIndex": 2
+                },
+                {
+                    "skillIndex": 8
+                }
+            ]
+        },
+        {
+            "id": "myPortfolio",
+            "imageURL": "",
+            "liveURL": "",
+            "clientRepoURL": "",
+            "serverRepoURL": "",
+            "name": "This Portfolio",
+            "description": "",
+            "technologies": [
+                {
+                    "skillIndex": 0
+                },
+                {
+                    "skillIndex": 1
+                },
+                {
+                    "skillIndex": 2
+                },
+                {
+                    "skillIndex": 3
+                },
+                {
+                    "skillIndex": 5
+                },
+                {
+                    "skillIndex": 8
+                }
+            ]
+        },
+        {
+            "id": "projectLuis",
+            "imageURL": "",
+            "liveURL": "",
+            "clientRepoURL": "",
+            "serverRepoURL": "",
+            "name": "Project L.U.I.S.",
+            "description": "",
+            "technologies": [
+                {
+                    "skillIndex": 0
+                },
+                {
+                    "skillIndex": 1
+                },
+                {
+                    "skillIndex": 2
+                },
+                {
+                    "skillIndex": 3
+                },
+                {
+                    "skillIndex": 5
+                },
+                {
+                    "skillIndex": 6
+                },
+                {
+                    "skillIndex": 7
+                },
+                {
+                    "skillIndex": 8
+                }
+            ]
+        },
+        {
+            "id": "exoApp",
+            "imageURL": "",
+            "liveURL": "",
+            "clientRepoURL": "",
+            "serverRepoURL": "",
+            "name": "EXO App: Cosmic Logger",
+            "description": "",
+            "technologies": [
+                {
+                    "skillIndex": 0
+                },
+                {
+                    "skillIndex": 1
+                },
+                {
+                    "skillIndex": 2
+                },
+                {
+                    "skillIndex": 3
+                },
+                {
+                    "skillIndex": 4
+                },
+                {
+                    "skillIndex": 5
+                },
+                {
+                    "skillIndex": 8
+                }
+            ]
+        }
+    ],
+    "skillsPage": [
+        {
+            "id": "skillJavascript",
+            "iconURL": "",
+            "name": "JavaScript"
+        },
+        {
+            "id": "skillHTML",
+            "iconURL": "",
+            "name": "HTML"
+        },
+        {
+            "id": "skillCSS",
+            "iconURL": "",
+            "name": "CSS"
+        },
+        {
+            "id": "skillReact",
+            "iconURL": "",
+            "name": "React"
+        },
+        {
+            "id": "skillBootstrap",
+            "iconURL": "",
+            "name": "React-Bootstrap"
+        },
+        {
+            "id": "skillNode",
+            "iconURL": "",
+            "name": "Node.js"
+        },
+        {
+            "id": "skillExpress",
+            "iconURL": "",
+            "name": "Express.js"
+        },
+        {
+            "id": "skillMongoDB",
+            "iconURL": "",
+            "name": "MongoDB"
+        },
+        {
+            "id": "skillGitHub",
+            "iconURL": "",
+            "name": "GitHub"
+        }
+    ],
+    "skillIndexMapping": {
+        "0": "JavaScript",
+        "1": "HTML",
+        "2": "CSS",
+        "3": "React",
+        "4": "React-Bootstrap",
+        "5": "Node.js",
+        "6": "Express.js",
+        "7": "MongoDB",
+        "8": "GitHub"
+    }
+}
