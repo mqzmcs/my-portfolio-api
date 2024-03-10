@@ -36,7 +36,7 @@
     "projectsPage": [
         {
             "id": "myPortfolio",
-            "imageURL": "",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710100768/projects/id88ylrvdbtjd6gahiqt.png",
             "imageAlt": "Screenshot of my portfolio project",
             "liveURL": "#",
             "clientRepoURL": "#",
@@ -53,7 +53,7 @@
         },
         {
             "id": "projectLuis",
-            "imageURL": "",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710100768/projects/dfxopjkrtjsry9mesgpj.png",
             "imageAlt": "Screenshot of project L.U.I.S.",
             "liveURL": "https://project-luis.netlify.app/",
             "clientRepoURL": "https://github.com/project-luis/project-luis-frontend",
@@ -73,7 +73,7 @@
         },
         {
             "id": "exoApp",
-            "imageURL": "",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710100769/projects/mqsw51z4ajhgqthlbyvr.png",
             "imageAlt": "Screenshot of EXO App: Cosmic Logger project",
             "liveURL": "https://project-exo-app.netlify.app/",
             "clientRepoURL": "https://github.com/m02p02/react-json-project02",
@@ -91,12 +91,12 @@
         },
         {
             "id": "billyBiscuit",
-            "imageURL": "",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710100768/projects/dfqja6s13nviecqmkrme.png",
             "imageAlt": "Screenshot of Billy Biscuit game project",
             "liveURL": "https://mqzmcs.github.io/project01game/",
             "clientRepoURL": "https://github.com/mqzmcs/project01game",
             "name": "Billy Biscuit: Cookie Collector",
-            "description": "Catch falling cookies and dodge enemy sprites in this arcade-style browser game! Featuring collision detection, this game began development as a solo project at Ironhack's full-stack web development bootcamp, this game showcases my continuously deepening understanding of core programming concepts and DOM manipulation. The game is constantly being worked on and updated as my skills improve.",
+            "description": "Catch falling cookies and dodge enemy sprites in this arcade-style browser game! Featuring collision detection, this game began development as a solo project at Ironhack's full-stack web development bootcamp along with all graphics made by me using MS Paint and Paint 3D. This game showcases my continuously deepening understanding of core programming concepts and DOM manipulation, and it is constantly being worked on and updated as my skills improve.",
             "technologies": [
                 "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-js_lpmgwg.png",
                 "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-html_msh1kd.png",
