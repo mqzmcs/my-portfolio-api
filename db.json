@@ -37,9 +37,9 @@
         {
             "id": "billyBiscuit",
             "imageURL": "",
+            "imageAlt": "Screenshot of Billy Biscuit game project",
             "liveURL": "",
             "clientRepoURL": "",
-            "serverRepoURL": "",
             "name": "Billy Biscuit: Cookie Collector",
             "description": "",
             "technologies": [
@@ -60,6 +60,7 @@
         {
             "id": "myPortfolio",
             "imageURL": "",
+            "imageAlt": "Screenshot of my portfolio project",
             "liveURL": "",
             "clientRepoURL": "",
             "serverRepoURL": "",
@@ -89,6 +90,7 @@
         {
             "id": "projectLuis",
             "imageURL": "",
+            "imageAlt": "Screenshot of project L.U.I.S.",
             "liveURL": "",
             "clientRepoURL": "",
             "serverRepoURL": "",
@@ -124,6 +126,7 @@
         {
             "id": "exoApp",
             "imageURL": "",
+            "imageAlt": "Screenshot of EXO App: Cosmic Logger project",
             "liveURL": "",
             "clientRepoURL": "",
             "serverRepoURL": "",
@@ -157,47 +160,56 @@
     "skillsPage": [
         {
             "id": "skillJavascript",
-            "iconURL": "",
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-js_lpmgwg.png",
+            "iconAlt": "JavaScript icon",
             "name": "JavaScript"
         },
         {
             "id": "skillHTML",
-            "iconURL": "",
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-html_msh1kd.png",
+            "iconAlt": "HTML icon",
             "name": "HTML"
         },
         {
             "id": "skillCSS",
-            "iconURL": "",
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091002/logos/logo-css_yp3ini.png",
+            "iconAlt": "CSS icon",
             "name": "CSS"
         },
         {
             "id": "skillReact",
-            "iconURL": "",
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-react_cghx3j.png",
+            "iconAlt": "React icon",
             "name": "React"
         },
         {
             "id": "skillBootstrap",
-            "iconURL": "",
-            "name": "React-Bootstrap"
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091001/logos/logo-bootstrap_j6p5oh.png",
+            "iconAlt": "Bootstrap icon",
+            "name": "Bootstrap"
         },
         {
             "id": "skillNode",
-            "iconURL": "",
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-nodejs_ybrgzw.png",
+            "iconAlt": "Node.js icon",
             "name": "Node.js"
         },
         {
             "id": "skillExpress",
-            "iconURL": "",
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091002/logos/logo-expressjs_avg6bn.png",
+            "iconAlt": "Express.js icon",
             "name": "Express.js"
         },
         {
             "id": "skillMongoDB",
-            "iconURL": "",
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091005/logos/logo-mongodb_w0tobz.png",
+            "iconAlt": "MongoDB icon",
             "name": "MongoDB"
         },
         {
             "id": "skillGitHub",
-            "iconURL": "",
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091003/logos/logo-github_wwcarg.png",
+            "iconAlt": "GitHub icon",
             "name": "GitHub"
         }
     ],
