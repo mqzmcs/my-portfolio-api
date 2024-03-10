@@ -35,125 +35,73 @@
     ],
     "projectsPage": [
         {
-            "id": "billyBiscuit",
-            "imageURL": "",
-            "imageAlt": "Screenshot of Billy Biscuit game project",
-            "liveURL": "",
-            "clientRepoURL": "",
-            "name": "Billy Biscuit: Cookie Collector",
-            "description": "",
-            "technologies": [
-                {
-                    "skillIndex": 0
-                },
-                {
-                    "skillIndex": 1
-                },
-                {
-                    "skillIndex": 2
-                },
-                {
-                    "skillIndex": 8
-                }
-            ]
-        },
-        {
             "id": "myPortfolio",
             "imageURL": "",
             "imageAlt": "Screenshot of my portfolio project",
-            "liveURL": "",
-            "clientRepoURL": "",
-            "serverRepoURL": "",
-            "name": "This Portfolio",
-            "description": "",
+            "liveURL": "#",
+            "clientRepoURL": "#",
+            "name": "My Portfolio",
+            "description": "I built this interactive portfolio using React for a dynamic frontend and a Node.js API for data persistence. I elected to utilize vanilla CSS to continue deepening my understanding of the basics and solidifying my frontend foundation. The portfolio is constantly evolving, with upcoming features like user authentication for admin CRUD operations and MongoDB integration for enhanced backend functionality.",
             "technologies": [
-                {
-                    "skillIndex": 0
-                },
-                {
-                    "skillIndex": 1
-                },
-                {
-                    "skillIndex": 2
-                },
-                {
-                    "skillIndex": 3
-                },
-                {
-                    "skillIndex": 5
-                },
-                {
-                    "skillIndex": 8
-                }
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-js_lpmgwg.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-html_msh1kd.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091002/logos/logo-css_yp3ini.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-react_cghx3j.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-nodejs_ybrgzw.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091003/logos/logo-github_wwcarg.png"
             ]
         },
         {
             "id": "projectLuis",
             "imageURL": "",
             "imageAlt": "Screenshot of project L.U.I.S.",
-            "liveURL": "",
-            "clientRepoURL": "",
-            "serverRepoURL": "",
+            "liveURL": "https://project-luis.netlify.app/",
+            "clientRepoURL": "https://github.com/project-luis/project-luis-frontend",
             "name": "Project L.U.I.S.",
-            "description": "",
+            "description": "The final project in Ironhack's full-stack web development bootcamp, this collaborative app was built using the MERN stack and features full CRUD operations, user authentication, modal/popup functionality and functionality to .populate() schema/models with content from other schema/models.",
             "technologies": [
-                {
-                    "skillIndex": 0
-                },
-                {
-                    "skillIndex": 1
-                },
-                {
-                    "skillIndex": 2
-                },
-                {
-                    "skillIndex": 3
-                },
-                {
-                    "skillIndex": 5
-                },
-                {
-                    "skillIndex": 6
-                },
-                {
-                    "skillIndex": 7
-                },
-                {
-                    "skillIndex": 8
-                }
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-js_lpmgwg.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-html_msh1kd.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091002/logos/logo-css_yp3ini.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091001/logos/logo-bootstrap_j6p5oh.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-react_cghx3j.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-nodejs_ybrgzw.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091005/logos/logo-mongodb_w0tobz.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091002/logos/logo-expressjs_avg6bn.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091003/logos/logo-github_wwcarg.png"
             ]
         },
         {
             "id": "exoApp",
             "imageURL": "",
             "imageAlt": "Screenshot of EXO App: Cosmic Logger project",
-            "liveURL": "",
-            "clientRepoURL": "",
-            "serverRepoURL": "",
-            "name": "EXO App: Cosmic Logger",
-            "description": "",
+            "liveURL": "https://project-exo-app.netlify.app/",
+            "clientRepoURL": "https://github.com/m02p02/react-json-project02",
+            "name": "EXO App, Cosmic Logger: Bootcamp Wars",
+            "description": "Developed as a collaborative project at Ironhack's full-stack web development bootcamp, this app showcases public CRUD functionality, practicing responsive design and implementing elements of React-Bootstrap. Although it is paired to a Node.js API for simple data persistence, upcoming plans include MongoDB server implementation with user authentication to eliminate public access to CRUD and to enable simple message board commenting functionality. Other future plans include improvements to its futuristic raypunk/dieselpunk dystopian design.",
             "technologies": [
-                {
-                    "skillIndex": 0
-                },
-                {
-                    "skillIndex": 1
-                },
-                {
-                    "skillIndex": 2
-                },
-                {
-                    "skillIndex": 3
-                },
-                {
-                    "skillIndex": 4
-                },
-                {
-                    "skillIndex": 5
-                },
-                {
-                    "skillIndex": 8
-                }
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-js_lpmgwg.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-html_msh1kd.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091002/logos/logo-css_yp3ini.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091001/logos/logo-bootstrap_j6p5oh.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-react_cghx3j.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-nodejs_ybrgzw.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091003/logos/logo-github_wwcarg.png"
+            ]
+        },
+        {
+            "id": "billyBiscuit",
+            "imageURL": "",
+            "imageAlt": "Screenshot of Billy Biscuit game project",
+            "liveURL": "https://mqzmcs.github.io/project01game/",
+            "clientRepoURL": "https://github.com/mqzmcs/project01game",
+            "name": "Billy Biscuit: Cookie Collector",
+            "description": "Catch falling cookies and dodge enemy sprites in this arcade-style browser game! Featuring collision detection, this game began development as a solo project at Ironhack's full-stack web development bootcamp, this game showcases my continuously deepening understanding of core programming concepts and DOM manipulation. The game is constantly being worked on and updated as my skills improve.",
+            "technologies": [
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-js_lpmgwg.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-html_msh1kd.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091002/logos/logo-css_yp3ini.png",
+                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091003/logos/logo-github_wwcarg.png"
             ]
         }
     ],
@@ -212,16 +160,5 @@
             "iconAlt": "GitHub icon",
             "name": "GitHub"
         }
-    ],
-    "skillIndexMapping": {
-        "0": "JavaScript",
-        "1": "HTML",
-        "2": "CSS",
-        "3": "React",
-        "4": "React-Bootstrap",
-        "5": "Node.js",
-        "6": "Express.js",
-        "7": "MongoDB",
-        "8": "GitHub"
-    }
+    ]
 }
