@@ -1,38 +1,50 @@
 {
-    "profilePage": [
-        {
-            "id": "image01",
-            "imageURL": "#"
-        },
-        {
-            "id": "image02",
-            "imageURL": "#"
-        },
-        {
-            "id": "paragraph01",
-            "content": "This is paragraph 1"
-        },
-        {
-            "id": "paragraph02",
-            "content": "This is paragraph 2"
-        },
-        {
-            "id": "paragraph03",
-            "content": "This is paragraph 3"
-        },
-        {
-            "id": "paragraph04",
-            "content": "This is paragraph 4"
-        },
-        {
-            "id": "paragraph05",
-            "content": "This is paragraph 5"
-        },
-        {
-            "id": "paragraph06",
-            "content": "This is paragraph 6"
-        }
-    ],
+    "profilePage": {
+        "topContent": [
+            {
+                "type": "image",
+                "id": "image01",
+                "imageURL": "https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg"
+            },
+            {
+                "type": "paragraph",
+                "id": "paragraph01",
+                "content": "This is paragraph 1"
+            },
+            {
+                "type": "paragraph",
+                "id": "paragraph02",
+                "content": "This is paragraph 2"
+            },
+            {
+                "type": "paragraph",
+                "id": "paragraph03",
+                "content": "This is paragraph 3"
+            }
+        ],
+        "bottomContent": [
+            {
+                "type": "paragraph",
+                "id": "paragraph04",
+                "content": "This is paragraph 4"
+            },
+            {
+                "type": "paragraph",
+                "id": "paragraph05",
+                "content": "This is paragraph 5"
+            },
+            {
+                "type": "paragraph",
+                "id": "paragraph06",
+                "content": "This is paragraph 6"
+            },
+            {
+                "type": "image",
+                "id": "image02",
+                "imageURL": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            }
+        ]
+    },
     "projectsPage": [
         {
             "id": "myPortfolio",
