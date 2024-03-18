@@ -9,14 +9,14 @@
             {
                 "type": "paragraph",
                 "id": "paragraphTop",
-                "content": "This is paragraph 1 This is paragraph 2 This is paragraph 3"
+                "content": "    I'm a passionate web developer with a background in education, bringing over 15 years of experience in student and classroom management, curriculum development, and fostering creativity in learning environments. My recent graduation from Ironhack's web development program signifies my eagerness to leverage my problem-solving skills and collaborative spirit in the world of technology.    My educational background has provided me with a strong foundation in communication, teamwork, and cultural awareness. I'm fluent in English (with a North American accent), Spanish, and Italian, with additional proficiency in Japanese.    Beyond technical skills in Javascript, HTML5, CSS, and popular frameworks like React.js and Node.js, I possess a strong work ethic, adaptability, and a commitment to continuous learning. I'm particularly interested in environments that encourage collaboration and the merging of diverse disciplines and ideas."
             }
         ],
         "bottomContent": [
             {
                 "type": "paragraph",
                 "id": "paragraphBottom",
-                "content": "This is paragraph 4 This is paragraph 5 This is paragraph 6"
+                "content": "    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Contrary to popular belief, Lorem Ipsum is not simply random text.    It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
             },
             {
                 "type": "image",
@@ -99,58 +99,40 @@
     ],
     "skillsPage": [
         {
-            "id": "skillJavascript",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-js_lpmgwg.png",
-            "iconAlt": "JavaScript icon",
-            "name": "JavaScript"
+            "id": "skillBlock01",
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710768773/logos/block-01_mxjfbu.png",
+            "iconAlt": "JavaScript HTML CSS and Bootstrap",
+            "name": ""
         },
         {
-            "id": "skillHTML",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-html_msh1kd.png",
-            "iconAlt": "HTML icon",
-            "name": "HTML"
+            "id": "skillBlock02",
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710768774/logos/block-02_tgzc9d.png",
+            "iconAlt": "MongoDB Express.js Node.js React",
+            "name": ""
         },
         {
-            "id": "skillCSS",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091002/logos/logo-css_yp3ini.png",
-            "iconAlt": "CSS icon",
-            "name": "CSS"
+            "id": "skillBlock03",
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710768775/logos/block-03_m84r0v.png",
+            "iconAlt": "Git GitHub VSCode Postman",
+            "name": ""
         },
         {
-            "id": "skillReact",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-react_cghx3j.png",
-            "iconAlt": "React icon",
-            "name": "React"
+            "id": "skillBlock04",
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710768778/logos/block-05_cmkv3o.png",
+            "iconAlt": "Netlify Adaptable.io Cloudinary",
+            "name": ""
         },
         {
-            "id": "skillBootstrap",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091001/logos/logo-bootstrap_j6p5oh.png",
-            "iconAlt": "Bootstrap icon",
-            "name": "Bootstrap"
+            "id": "skillBlock05",
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710768779/logos/block-06_c5m3pe.png",
+            "iconAlt": "Figma Excalidraw Trello",
+            "name": ""
         },
         {
-            "id": "skillNode",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-nodejs_ybrgzw.png",
-            "iconAlt": "Node.js icon",
-            "name": "Node.js"
-        },
-        {
-            "id": "skillExpress",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091002/logos/logo-expressjs_avg6bn.png",
-            "iconAlt": "Express.js icon",
-            "name": "Express.js"
-        },
-        {
-            "id": "skillMongoDB",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091005/logos/logo-mongodb_w0tobz.png",
-            "iconAlt": "MongoDB icon",
-            "name": "MongoDB"
-        },
-        {
-            "id": "skillGitHub",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091003/logos/logo-github_wwcarg.png",
-            "iconAlt": "GitHub icon",
-            "name": "GitHub"
+            "id": "skillBlock06",
+            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710768777/logos/block-04_rqj66x.png",
+            "iconAlt": "Ironhack freeCodeCamp The Odin Project Codeacademy Codewars CS50x",
+            "name": ""
         }
     ]
 }
