@@ -8,35 +8,15 @@
             },
             {
                 "type": "paragraph",
-                "id": "paragraph01",
-                "content": "This is paragraph 1"
-            },
-            {
-                "type": "paragraph",
-                "id": "paragraph02",
-                "content": "This is paragraph 2"
-            },
-            {
-                "type": "paragraph",
-                "id": "paragraph03",
-                "content": "This is paragraph 3"
+                "id": "paragraphTop",
+                "content": "This is paragraph 1 This is paragraph 2 This is paragraph 3"
             }
         ],
         "bottomContent": [
             {
                 "type": "paragraph",
-                "id": "paragraph04",
-                "content": "This is paragraph 4"
-            },
-            {
-                "type": "paragraph",
-                "id": "paragraph05",
-                "content": "This is paragraph 5"
-            },
-            {
-                "type": "paragraph",
-                "id": "paragraph06",
-                "content": "This is paragraph 6"
+                "id": "paragraphBottom",
+                "content": "This is paragraph 4 This is paragraph 5 This is paragraph 6"
             },
             {
                 "type": "image",
