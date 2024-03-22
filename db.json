@@ -9,14 +9,14 @@
             {
                 "type": "paragraph",
                 "id": "paragraphTop",
-                "content": "    I'm a passionate web developer with a background in education, bringing over 15 years of experience in student and classroom management, curriculum development, and fostering creativity in learning environments. My recent graduation from Ironhack's web development program signifies my eagerness to leverage my problem-solving skills and collaborative spirit in the world of technology.    My educational background has provided me with a strong foundation in communication, teamwork, and cultural awareness. I'm fluent in English (with a North American accent), Spanish, and Italian, with additional proficiency in Japanese.    Beyond technical skills in Javascript, HTML5, CSS, and popular frameworks like React.js and Node.js, I possess a strong work ethic, adaptability, and a commitment to continuous learning. I'm particularly interested in environments that encourage collaboration and the merging of diverse disciplines and ideas."
-            }
+                "content": "PASSION FOR DEVELOPMENT. I'm a passionate developer always striving for clean form, user-friendly interfaces and robust functionality. My background may seem unconventional, but it has given me unique insights and equipped me with valuable skills."
+            } 
         ],
         "bottomContent": [
             {
                 "type": "paragraph",
                 "id": "paragraphBottom",
-                "content": "    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Contrary to popular belief, Lorem Ipsum is not simply random text.    It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+                "content": "BROAD EXPERIENCE AND GLOBAL PERSPECTIVE. With a degree in International Studies and over 15 years of experience working in education, I have gained invaluable experiences in student and classroom management, curriculum development, and fostering creativity in learning environments. My experiences continue to hone my communication, teamwork and cultural awareness skills. I'm a native English speaker from Canada, and I also speak fluent Japanese, intermediate Spanish and basic Italian. I now live in Spain, but I also spent many years in the Philippines and in Japan, where I completed my schooling.    TECHNICAL SKILLS AND GROWTH MINDSET. My recent graduation from Ironhack's Full-Stack Web Development Bootcamp has bolstered my determination to leverage my problem-solving skills and collaborative spirit in the world of technology. Beyond technical skills in JavaScript, HTML, CSS, and React.js, I possess a strong work ethic, adaptability, resourcefulness, and a commitment to continuous learning."
             },
             {
                 "type": "image",
@@ -25,6 +25,23 @@
             }
         ]
     },
+    "myDocs": [
+        {
+            "id": "ironhackCert",
+            "name": "Ironhack Web Development Certificate",
+            "docURL": "https://drive.google.com/file/d/119exZm2b59BeKr6Ns8VospQv9dJsEQTZ/view?usp=drive_link"
+        },
+        {
+            "id": "FCCResponsiveCert",
+            "name": "freeCodeCamp Responsive Design Certification",
+            "docURL": "https://drive.google.com/file/d/1mXDpYwDRwoKa8rdrv2NSYV-vzB_Uosk9/view?usp=drive_link"
+        },
+        {
+            "id": "myCV",
+            "name": "CV Resume",
+            "docURL": "https://drive.google.com/file/d/1QElg8hZD1oyo-s8tlpoA89-Yzdbig1CA/view?usp=drive_link"
+        }
+    ],
     "projectsPage": [
         {
             "id": "myPortfolio",
@@ -33,14 +50,16 @@
             "liveURL": "#",
             "clientRepoURL": "#",
             "name": "My Portfolio",
-            "description": "I built this interactive portfolio using React for a dynamic frontend and a custom-built Node.js API for lightweight data persistence. I utilize vanilla CSS to continue deepening my understanding of foundational elements and how they come together. The portfolio is constantly evolving, with upcoming features like user authentication for admin CRUD operations and MongoDB integration for enhanced backend functionality.",
+            "description": "Built using React for a dynamic frontend and a Node.js API for lightweight data persistence. I utilize vanilla CSS here to further my understanding of foundational elements and how they come together. This portfolio is constantly evolving, with upcoming features like a MongoDB server and user authentication for admin CRUD operations and enhanced backend functionality.",
             "technologies": [
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-js_lpmgwg.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-html_msh1kd.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091002/logos/logo-css_yp3ini.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-react_cghx3j.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-nodejs_ybrgzw.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091003/logos/logo-github_wwcarg.png"
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "React",
+                "Node.js",
+                "JSON API",
+                "GitHub"
             ]
         },
         {
@@ -52,15 +71,15 @@
             "name": "Project L.U.I.S.",
             "description": "The final project in Ironhack's full-stack web development bootcamp, this collaborative app was built using the MERN stack and features full CRUD operations, user authentication and Mongoose's population functionality.",
             "technologies": [
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-js_lpmgwg.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-html_msh1kd.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091002/logos/logo-css_yp3ini.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091001/logos/logo-bootstrap_j6p5oh.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-react_cghx3j.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-nodejs_ybrgzw.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091005/logos/logo-mongodb_w0tobz.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091002/logos/logo-expressjs_avg6bn.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091003/logos/logo-github_wwcarg.png"
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "React",
+                "Node.js",
+                "MongoDB",
+                "Express.js",
+                "GitHub"
             ]
         },
         {
@@ -72,13 +91,14 @@
             "name": "EXO App, Cosmic Logger: Bootcamp Wars",
             "description": "Developed as a collaborative project at Ironhack's full-stack web development bootcamp, this app showcases CRUD functionality and implementation of React-Bootstrap. Although it is currently paired to a custom-built Node.js API for lightweight data storage, upcoming plans include MongoDB server integration with user authentication and commenting functionality. Other plans include reworking its futuristic raypunk/dieselpunk dystopian design.",
             "technologies": [
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-js_lpmgwg.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-html_msh1kd.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091002/logos/logo-css_yp3ini.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091001/logos/logo-bootstrap_j6p5oh.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-react_cghx3j.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091006/logos/logo-nodejs_ybrgzw.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091003/logos/logo-github_wwcarg.png"
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "React",
+                "Node.js",
+                "JSON API",
+                "GitHub"
             ]
         },
         {
@@ -90,49 +110,67 @@
             "name": "Billy Biscuit: Cookie Collector",
             "description": "Catch falling cookies and dodge enemy sprites in this arcade-style browser game! Featuring collision detection and all graphics made by me using MS Paint and Paint 3D, this game began development as a solo first-module project at Ironhack's full-stack web development bootcamp. This game showcases my continuously deepening understanding of core programming concepts and DOM manipulation, and it is constantly being worked on and updated as my skills improve.",
             "technologies": [
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-js_lpmgwg.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091004/logos/logo-html_msh1kd.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091002/logos/logo-css_yp3ini.png",
-                "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710091003/logos/logo-github_wwcarg.png"
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "GitHub"
             ]
         }
     ],
     "skillsPage": [
         {
             "id": "skillBlock01",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710768773/logos/block-01_mxjfbu.png",
-            "iconAlt": "JavaScript HTML CSS and Bootstrap",
-            "name": ""
+            "content": [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Bootstrap"
+            ]
         },
         {
             "id": "skillBlock02",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710768774/logos/block-02_tgzc9d.png",
-            "iconAlt": "MongoDB Express.js Node.js React",
-            "name": ""
+            "content": [
+                "MongoDB",
+                "Express.js",
+                "Node.js",
+                "React"
+            ]
         },
         {
             "id": "skillBlock03",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710768775/logos/block-03_m84r0v.png",
-            "iconAlt": "Git GitHub VSCode Postman",
-            "name": ""
+            "content": [
+                "Git",
+                "GitHub",
+                "VS Code",
+                "Postman"
+            ]
         },
         {
             "id": "skillBlock04",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710768778/logos/block-05_cmkv3o.png",
-            "iconAlt": "Netlify Adaptable.io Cloudinary",
-            "name": ""
+            "content": [
+                "Netlify",
+                "Adaptable.io",
+                "Cloudinary"
+            ]
         },
         {
             "id": "skillBlock05",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710768779/logos/block-06_c5m3pe.png",
-            "iconAlt": "Figma Excalidraw Trello",
-            "name": ""
+            "content": [
+                "Figma",
+                "Excalidraw",
+                "Trello"
+            ]
         },
         {
             "id": "skillBlock06",
-            "iconURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710768777/logos/block-04_rqj66x.png",
-            "iconAlt": "Ironhack freeCodeCamp The Odin Project Codeacademy Codewars CS50x",
-            "name": ""
+            "content": [
+                "Ironhack",
+                "freeCodeCamp",
+                "The Odin Project", 
+                "Codeacademy",
+                "CS50x",
+                "Codewars"
+            ]
         }
     ]
 }
