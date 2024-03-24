@@ -4,12 +4,12 @@
             {
                 "type": "image",
                 "id": "image01",
-                "imageURL": "https://buffer.com/library/content/images/size/w1200/2023/10/free-images.jpg"
+                "imageURL": "https://content.wepik.com/statics/21209533/preview-page0.jpg"
             },
             {
                 "type": "paragraph",
                 "id": "paragraphTop",
-                "content": "PASSION FOR DEVELOPMENT. I'm a passionate developer always striving for clean form, user-friendly interfaces and robust functionality. My background may seem unconventional, but it has given me unique insights and equipped me with valuable skills.    BROAD EXPERIENCE AND GLOBAL PERSPECTIVE. With a degree in International Studies and over 15 years of experience working in education, I have gained invaluable experiences in student and classroom management, curriculum development, and fostering creativity in learning environments. My experiences continue to hone my communication, teamwork and cultural awareness skills. I'm a native English speaker from Canada, and I also speak fluent Japanese, intermediate Spanish and basic Italian. I now live in Spain, but I also spent many years in the Philippines and in Japan, where I completed my schooling.    "
+                "content": "PASSION FOR DEVELOPMENT. I'm a passionate developer always striving for clean form, user-friendly interfaces and robust functionality. My background may seem unconventional, but it has given me unique insights and equipped me with valuable skills.    BROAD EXPERIENCE AND GLOBAL PERSPECTIVE. With a degree in International Studies and over 15 years of experience working in education, I have gained invaluable experiences in student and classroom management, curriculum development, and fostering creativity in learning environments. My experiences continue to hone my communication, teamwork and cultural awareness skills. I'm a native English speaker from Canada, and I also speak fluent Japanese, intermediate Spanish and basic Italian. I now live in Spain, but I also spent many years in the Philippines and in Japan, where I completed my schooling."
             } 
         ],
         "bottomContent": [
@@ -21,7 +21,7 @@
             {
                 "type": "image",
                 "id": "image02",
-                "imageURL": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+                "imageURL": "https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/UQHPJG4L7ZA6VPY3XE7VFJRTRY.jpg"
             }
         ]
     },
@@ -55,7 +55,6 @@
                 "JavaScript",
                 "HTML",
                 "CSS",
-                "Bootstrap",
                 "React",
                 "Node.js",
                 "JSON API",
@@ -74,7 +73,7 @@
                 "JavaScript",
                 "HTML",
                 "CSS",
-                "Bootstrap",
+                "React-Bootstrap",
                 "React",
                 "Node.js",
                 "MongoDB",
@@ -94,7 +93,7 @@
                 "JavaScript",
                 "HTML",
                 "CSS",
-                "Bootstrap",
+                "React-Bootstrap",
                 "React",
                 "Node.js",
                 "JSON API",
