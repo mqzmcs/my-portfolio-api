@@ -1,5 +1,5 @@
 {
-    "profilePage": [
+    "profile": [
         {
             "type": "image",
             "id": "image01",
@@ -26,7 +26,7 @@
             "content": "TECHNICAL SKILLS AND GROWTH MINDSET. My recent graduation from Ironhack's Full-Stack Web Development Bootcamp has bolstered my determination to leverage my problem-solving skills and collaborative spirit in the world of technology. Beyond technical skills in JavaScript, HTML, CSS, and React.js, I possess a strong work ethic, adaptability, resourcefulness, and a commitment to continuous learning."
         }
     ],
-    "myDocs": [
+    "docs": [
         {
             "id": "myCV",
             "name": "View my CV Resume",
@@ -43,7 +43,7 @@
             "docURL": "https://drive.google.com/file/d/1mXDpYwDRwoKa8rdrv2NSYV-vzB_Uosk9/view?usp=drive_link"
         }
     ],
-    "projectsPage": [
+    "projects": [
         {
             "id": "myPortfolio",
             "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1711840583/projects/my-portfolio-02_kp4mdg.png",
@@ -125,7 +125,7 @@
             ]
         }
     ],
-    "skillsPage": [
+    "skills": [
         {
             "id": "skillBlock01",
             "content": [
