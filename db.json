@@ -37,24 +37,24 @@
             "docURL": "https://drive.google.com/file/d/1QElg8hZD1oyo-s8tlpoA89-Yzdbig1CA/view?usp=drive_link"
         },
         {
-            "id": "ironhackCert",
-            "name": "Ironhack Web Development Certificate",
+            "id": "ironhackCertificate",
+            "name": "Ironhack Full-Stack Web Development Certificate",
             "docURL": "https://drive.google.com/file/d/119exZm2b59BeKr6Ns8VospQv9dJsEQTZ/view?usp=drive_link"
         },
         {
-            "id": "FCCResponsiveCert",
-            "name": "freeCodeCamp Responsive Design Certification",
+            "id": "freeCodeCampCertificate01",
+            "name": "freeCodeCamp Responsive Design Developer Certification",
             "docURL": "https://drive.google.com/file/d/1mXDpYwDRwoKa8rdrv2NSYV-vzB_Uosk9/view?usp=drive_link"
         }
     ],
     "projects": [
         {
-            "id": "myPortfolio",
+            "id": "mqzetera",
             "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1711840583/projects/my-portfolio-02_kp4mdg.png",
             "imageAlt": "Screenshot of my portfolio project",
-            "liveURL": "#",
-            "clientRepoURL": "#",
-            "name": "My Portfolio",
+            "liveURL": "https://mqzetera.netlify.app/",
+            "clientRepoURL": "https://github.com/mqzmcs/my-portfolio-client",
+            "name": "This Portfolio",
             "description": "Built using React for a dynamic frontend and a Node.js API for lightweight data persistence. I utilize vanilla CSS here to further my understanding of foundational elements and how they come together. This portfolio is constantly evolving, with upcoming features like a MongoDB server and user authentication for admin CRUD operations and enhanced backend functionality.",
             "technologies": [
                 "JavaScript",
