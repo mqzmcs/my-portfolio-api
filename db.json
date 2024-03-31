@@ -55,7 +55,7 @@
             "liveURL": "https://mqzetera.netlify.app/",
             "clientRepoURL": "https://github.com/mqzmcs/my-portfolio-client",
             "name": "This Portfolio",
-            "description": "Built using React for a dynamic frontend and a Node.js API for lightweight data persistence. I utilize vanilla CSS here to further my understanding of foundational elements and how they come together. This portfolio is constantly evolving, with upcoming features like a MongoDB server and user authentication for admin CRUD operations and enhanced backend functionality.",
+            "description": "(2024 MAR) I built this portfolio using React for a dynamic frontend. It is paired to a RESTful API on a JSON Server configured with Node.js. I chose this option for lightweight data persistence. I intentionally utilize vanilla CSS here to further my understanding of fundamental elements and how they come together. This project is constantly evolving, with possible features like a MongoDB server and user authentication for admin CRUD operations and enhanced backend functionality.",
             "technologies": [
                 "JavaScript",
                 "HTML",
@@ -76,7 +76,7 @@
             "liveURL": "https://project-exo-app.netlify.app/",
             "clientRepoURL": "https://github.com/m02p02/react-json-project02",
             "name": "EXO App: Cosmic Logger",
-            "description": "Developed as a collaborative project at Ironhack's full-stack web development bootcamp, this app showcases CRUD functionality and implementation of React-Bootstrap. Although it is currently paired to a custom-built Node.js API for lightweight data storage, upcoming plans include MongoDB server integration with user authentication and commenting functionality. Other plans include reworking its futuristic raypunk/dieselpunk dystopian design.",
+            "description": "(2024 MAR) This is a web app that allows users to create, read, update, and delete locations and their lifeforms to a database. It uses a RESTful API on a JSON Server configured with Node.js to execute CRUD functionality. Future plans include pairing it to a MongoDB server for data permanence. Utilizing React for a dynamic front end and vanilla CSS + React-Bootstrap for style, the aesthetics are meant to evoke a sense of sci-fi nostalgia and dystopian raypunk and dieselpunk tropes: Star Wars meets The Matrix meets Cyberpunk 2077 meets Fallout.",
             "technologies": [
                 "JavaScript",
                 "HTML",
@@ -98,7 +98,7 @@
             "liveURL": "https://mqzmcs.github.io/project01game/",
             "clientRepoURL": "https://github.com/mqzmcs/project01game",
             "name": "Billy Biscuit: Cookie Collector",
-            "description": "Catch falling cookies and dodge enemy sprites in this arcade-style browser game! Featuring collision detection and all graphics made by me using MS Paint and Paint 3D, this game began development as a solo first-module project at Ironhack's full-stack web development bootcamp. This game showcases my continuously deepening understanding of core programming concepts and DOM manipulation, and it is constantly being worked on and updated as my skills improve.",
+            "description": "(2024 FEB) Catch falling cookies and dodge enemy sprites in this arcade-style browser game! Featuring collision detection and all graphics made by me using MS Paint and Paint 3D, this game utilizes JavaScript, HTML, vanilla CSS and DOM manipulation. This game showcases my continuously deepening understanding of core programming concepts and DOM manipulation, and it is constantly being worked on and updated as my skills improve.",
             "technologies": [
                 "JavaScript",
                 "HTML",
@@ -115,7 +115,7 @@
             "liveURL": "https://project-luis.netlify.app/",
             "clientRepoURL": "https://github.com/project-luis/project-luis-frontend",
             "name": "Project L.U.I.S.",
-            "description": "The final project in Ironhack's full-stack web development bootcamp, this collaborative app was built using the MERN stack and features full CRUD operations, user authentication and Mongoose's population functionality.",
+            "description": "(2023 DEC) This collaborative project began as a vehicle to practice and showcase a full MERN stack operation with CRUD functionality and user token authentication.  It is currently set up as a representation of a bootcamp program and technologies directory as navigated by an admin user. Considering what it is meant to execute functionally, it works. Nevertheless, it is a WIP and is currently back in the planning stages.",
             "technologies": [
                 "JavaScript",
                 "HTML",
