@@ -1,30 +1,31 @@
 {
-    "profilePage": {
-        "topContent": [
-            {
-                "type": "image",
-                "id": "image01",
-                "imageURL": "https://content.wepik.com/statics/21209533/preview-page0.jpg"
-            },
-            {
-                "type": "paragraph",
-                "id": "paragraphTop",
-                "content": "PASSION FOR DEVELOPMENT. I'm a passionate developer always striving for clean form, user-friendly interfaces and robust functionality. My background may seem unconventional, but it has given me unique insights and equipped me with valuable skills.    BROAD EXPERIENCE AND GLOBAL PERSPECTIVE. With a degree in International Studies and over 15 years of experience working in education, I have gained invaluable experiences in student and classroom management, curriculum development, and fostering creativity in learning environments. My experiences continue to hone my communication, teamwork and cultural awareness skills. I'm a native English speaker from Canada, and I also speak fluent Japanese, intermediate Spanish and basic Italian. I now live in Spain, but I also spent many years in the Philippines and in Japan, where I completed my schooling."
-            } 
-        ],
-        "bottomContent": [
-            {
-                "type": "paragraph",
-                "id": "paragraphBottom",
-                "content": "TECHNICAL SKILLS AND GROWTH MINDSET. My recent graduation from Ironhack's Full-Stack Web Development Bootcamp has bolstered my determination to leverage my problem-solving skills and collaborative spirit in the world of technology. Beyond technical skills in JavaScript, HTML, CSS, and React.js, I possess a strong work ethic, adaptability, resourcefulness, and a commitment to continuous learning."
-            },
-            {
-                "type": "image",
-                "id": "image02",
-                "imageURL": "https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/UQHPJG4L7ZA6VPY3XE7VFJRTRY.jpg"
-            }
-        ]
-    },
+    "profilePage": [
+        {
+            "type": "image",
+            "id": "image01",
+            "imageURL": "https://content.wepik.com/statics/21209533/preview-page0.jpg"
+        },
+        {
+            "type": "image",
+            "id": "image02",
+            "imageURL": "https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/UQHPJG4L7ZA6VPY3XE7VFJRTRY.jpg"
+        },
+        {
+            "type": "paragraph",
+            "id": "paragraph01",
+            "content": "PASSION FOR DEVELOPMENT. I'm a passionate developer always striving for clean form, user-friendly interfaces and robust functionality. My background may seem unconventional, but it has given me unique insights and equipped me with valuable skills."
+        },
+        {
+            "type": "paragraph",
+            "id": "paragraph02",
+            "content": "BROAD EXPERIENCE AND GLOBAL PERSPECTIVE. With a degree in International Studies and over 15 years of experience working in education, I have gained invaluable experiences in student and classroom management, curriculum development, and fostering creativity in learning environments. My experiences continue to hone my communication, teamwork and cultural awareness skills. I'm a native English speaker from Canada, and I also speak fluent Japanese, intermediate Spanish and basic Italian. I now live in Spain, but I also spent many years in the Philippines and in Japan, where I completed my schooling."
+        },
+        {
+            "type": "paragraph",
+            "id": "paragraph03",
+            "content": "TECHNICAL SKILLS AND GROWTH MINDSET. My recent graduation from Ironhack's Full-Stack Web Development Bootcamp has bolstered my determination to leverage my problem-solving skills and collaborative spirit in the world of technology. Beyond technical skills in JavaScript, HTML, CSS, and React.js, I possess a strong work ethic, adaptability, resourcefulness, and a commitment to continuous learning."
+        }
+    ],
     "myDocs": [
         {
             "id": "myCV",
@@ -203,7 +204,7 @@
             "content": [
                 "Ironhack",
                 "freeCodeCamp",
-                "The Odin Project", 
+                "The Odin Project",
                 "Codeacademy",
                 "CS50x",
                 "Codewars"
