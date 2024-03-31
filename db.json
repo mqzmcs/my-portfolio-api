@@ -45,7 +45,7 @@
     "projectsPage": [
         {
             "id": "myPortfolio",
-            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710228762/projects/id88ylrvdbtjd6gahiqt.png",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1711840583/projects/my-portfolio-02_kp4mdg.png",
             "imageAlt": "Screenshot of my portfolio project",
             "liveURL": "#",
             "clientRepoURL": "#",
@@ -55,15 +55,57 @@
                 "JavaScript",
                 "HTML",
                 "CSS",
-                "React",
+                "React.js",
                 "Node.js",
                 "JSON API",
+                "GitHub",
+                "Cloudinary",
+                "Netlify",
+                "Adaptable.io"
+            ]
+        },
+        {
+            "id": "exoApp",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1711833191/projects/exo-app-01_x5dwz7.png",
+            "imageAlt": "Screenshot of EXO App: Cosmic Logger project",
+            "liveURL": "https://project-exo-app.netlify.app/",
+            "clientRepoURL": "https://github.com/m02p02/react-json-project02",
+            "name": "EXO App: Cosmic Logger",
+            "description": "Developed as a collaborative project at Ironhack's full-stack web development bootcamp, this app showcases CRUD functionality and implementation of React-Bootstrap. Although it is currently paired to a custom-built Node.js API for lightweight data storage, upcoming plans include MongoDB server integration with user authentication and commenting functionality. Other plans include reworking its futuristic raypunk/dieselpunk dystopian design.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "React-Bootstrap",
+                "React.js",
+                "Node.js",
+                "JSON API",
+                "GitHub",
+                "Cloudinary",
+                "Netlify",
+                "Adaptable.io"
+            ]
+        },
+        {
+            "id": "billyBiscuit",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1711836966/projects/billy-biscuit-01_lu0cpe.png",
+            "imageAlt": "Screenshot of Billy Biscuit game project",
+            "liveURL": "https://mqzmcs.github.io/project01game/",
+            "clientRepoURL": "https://github.com/mqzmcs/project01game",
+            "name": "Billy Biscuit: Cookie Collector",
+            "description": "Catch falling cookies and dodge enemy sprites in this arcade-style browser game! Featuring collision detection and all graphics made by me using MS Paint and Paint 3D, this game began development as a solo first-module project at Ironhack's full-stack web development bootcamp. This game showcases my continuously deepening understanding of core programming concepts and DOM manipulation, and it is constantly being worked on and updated as my skills improve.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "OOP",
+                "DOM Manipulation",
                 "GitHub"
             ]
         },
         {
             "id": "projectLuis",
-            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710100768/projects/dfxopjkrtjsry9mesgpj.png",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1711840152/projects/project-luis-01_opxlbl.png",
             "imageAlt": "Screenshot of project L.U.I.S.",
             "liveURL": "https://project-luis.netlify.app/",
             "clientRepoURL": "https://github.com/project-luis/project-luis-frontend",
@@ -74,44 +116,10 @@
                 "HTML",
                 "CSS",
                 "React-Bootstrap",
-                "React",
+                "React.js",
                 "Node.js",
                 "MongoDB",
                 "Express.js",
-                "GitHub"
-            ]
-        },
-        {
-            "id": "exoApp",
-            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710100769/projects/mqsw51z4ajhgqthlbyvr.png",
-            "imageAlt": "Screenshot of EXO App: Cosmic Logger project",
-            "liveURL": "https://project-exo-app.netlify.app/",
-            "clientRepoURL": "https://github.com/m02p02/react-json-project02",
-            "name": "EXO App, Cosmic Logger: Bootcamp Wars",
-            "description": "Developed as a collaborative project at Ironhack's full-stack web development bootcamp, this app showcases CRUD functionality and implementation of React-Bootstrap. Although it is currently paired to a custom-built Node.js API for lightweight data storage, upcoming plans include MongoDB server integration with user authentication and commenting functionality. Other plans include reworking its futuristic raypunk/dieselpunk dystopian design.",
-            "technologies": [
-                "JavaScript",
-                "HTML",
-                "CSS",
-                "React-Bootstrap",
-                "React",
-                "Node.js",
-                "JSON API",
-                "GitHub"
-            ]
-        },
-        {
-            "id": "billyBiscuit",
-            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1710100768/projects/dfqja6s13nviecqmkrme.png",
-            "imageAlt": "Screenshot of Billy Biscuit game project",
-            "liveURL": "https://mqzmcs.github.io/project01game/",
-            "clientRepoURL": "https://github.com/mqzmcs/project01game",
-            "name": "Billy Biscuit: Cookie Collector",
-            "description": "Catch falling cookies and dodge enemy sprites in this arcade-style browser game! Featuring collision detection and all graphics made by me using MS Paint and Paint 3D, this game began development as a solo first-module project at Ironhack's full-stack web development bootcamp. This game showcases my continuously deepening understanding of core programming concepts and DOM manipulation, and it is constantly being worked on and updated as my skills improve.",
-            "technologies": [
-                "JavaScript",
-                "HTML",
-                "CSS",
                 "GitHub"
             ]
         }
