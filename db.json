@@ -55,7 +55,7 @@
             "liveURL": "https://mqzetera.netlify.app/",
             "clientRepoURL": "https://github.com/mqzmcs/my-portfolio-client",
             "name": "This Portfolio",
-            "description": "(2024 MAR) I built this portfolio using React for a dynamic frontend. It is paired to a RESTful API on a JSON Server configured with Node.js. I chose this option for lightweight data persistence. I intentionally utilize vanilla CSS here to further my understanding of fundamental elements and how they come together. This project is constantly evolving, with possible features like a MongoDB server and user authentication for admin CRUD operations and enhanced backend functionality.",
+            "description": "(2024 MAR) I built this portfolio using React for a dynamic front end. It is paired to a RESTful API on a JSON Server configured with Node.js. I chose this option for lightweight data persistence. I intentionally utilize vanilla CSS here to further my understanding of fundamental elements and how they come together. This project is constantly evolving, with possible features like a MongoDB server and user authentication for admin CRUD operations and enhanced backend functionality.",
             "technologies": [
                 "JavaScript",
                 "HTML",
