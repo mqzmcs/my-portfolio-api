@@ -3,13 +3,13 @@
         {
             "id": "image01",
             "name": "Image 1",
-            "imageURL": "https://content.wepik.com/statics/21209533/preview-page0.jpg",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1711933057/profile/36623368_10155458682376954_1954617866695213056_n_edited_wvt4bt.jpg",
             "imageAlt": "A profile image of Alfonso"
         },
         {
             "id": "image02",
             "name": "Image 2",
-            "imageURL": "https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/UQHPJG4L7ZA6VPY3XE7VFJRTRY.jpg",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1711933059/profile/IMG_0568_edited_dqldwo.jpg",
             "imageAlt": "A secondary profile image"
         }
     ],
