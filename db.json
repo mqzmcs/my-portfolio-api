@@ -33,7 +33,7 @@
     "docs": [
         {
             "id": "myCV",
-            "name": "View my CV Resume (ATS-Friendly)",
+            "name": "View My ATS-Friendly CV Resume",
             "docURL": "https://docs.google.com/document/d/1bgLD9G4VKvXFuBMaVLa-HGvGagoD8gUE/edit?usp=drive_link&ouid=107347619937020643555&rtpof=true&sd=true"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "id": "freeCodeCampCertificate01",
-            "name": "freeCodeCamp Responsive Design Developer Certification",
+            "name": "freeCodeCamp Responsive Web Design Developer Certification",
             "docURL": "https://drive.google.com/file/d/1mXDpYwDRwoKa8rdrv2NSYV-vzB_Uosk9/view?usp=drive_link"
         }
     ],
