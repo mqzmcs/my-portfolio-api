@@ -82,6 +82,7 @@
                 "HTML",
                 "CSS",
                 "React-Bootstrap",
+                "Vite",
                 "React.js",
                 "Node.js",
                 "JSON API",
@@ -145,12 +146,7 @@
         {
             "id": "skillBlock03",
             "content": [
-                "CSS"
-            ]
-        },
-        {
-            "id": "skillBlock04",
-            "content": [
+                "CSS",
                 "React-Bootstrap"
             ]
         },
@@ -169,7 +165,8 @@
         {
             "id": "skillBlock07",
             "content": [
-                "React"
+                "Vite",
+                "React.js"
             ]
         },
         {
