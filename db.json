@@ -38,13 +38,18 @@
         },
         {
             "id": "ironhackCertificate",
-            "name": "Ironhack Full-Stack Web Development Certificate",
+            "name": "Ironhack | Full-Stack Web Development Certificate",
             "docURL": "https://drive.google.com/file/d/119exZm2b59BeKr6Ns8VospQv9dJsEQTZ/view?usp=drive_link"
         },
         {
             "id": "freeCodeCampCertificate01",
-            "name": "freeCodeCamp Responsive Web Design Developer Certification",
+            "name": "freeCodeCamp | Responsive Web Design Developer Certification",
             "docURL": "https://drive.google.com/file/d/1mXDpYwDRwoKa8rdrv2NSYV-vzB_Uosk9/view?usp=drive_link"
+        },
+        {
+            "id": "microsoftLearn01",
+            "name": "Microsoft Learn | Build JavaScript applications using TypeScript",
+            "docURL": "https://learn.microsoft.com/en-us/users/mqzmcs/achievements/nz7na5vf?ref=https%3A%2F%2Fwww.linkedin.com%2F"
         }
     ],
     "projects": [
