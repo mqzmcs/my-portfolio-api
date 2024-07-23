@@ -154,45 +154,39 @@
         {
             "id": "skillBlock02",
             "content": [
-                "HTML"
+                "HTML",
+                "CSS",
+                "React-Bootstrap",
+                "Tailwind CSS"
             ]
         },
         {
             "id": "skillBlock03",
             "content": [
-                "CSS",
-                "React-Bootstrap"
+                "Sanity Headless CMS",
+                "WordPress"
             ]
         },
         {
-            "id": "skillBlock05",
-            "content": [
-                "MongoDB",
-                "JSON Server API"
-            ]
-        },
-        {
-            "id": "skillBlock06",
-            "content": [
-                "Express.js"
-            ]
-        },
-        {
-            "id": "skillBlock07",
+            "id": "skillBlock04",
             "content": [
                 "React",
+                "Next.js",
                 "Create React App",
                 "Vite"
             ]
         },
         {
-            "id": "skillBlock08",
+            "id": "skillBlock05",
             "content": [
-                "Node.js"
+                "Node.js",
+                "MongoDB",
+                "Express.js",
+                "JSON Server API"
             ]
         },
         {
-            "id": "skillBlock09",
+            "id": "skillBlock06",
             "content": [
                 "Git",
                 "GitHub",
@@ -201,7 +195,7 @@
             ]
         },
         {
-            "id": "skillBlock10",
+            "id": "skillBlock07",
             "content": [
                 "Netlify",
                 "Adaptable.io",
@@ -209,7 +203,7 @@
             ]
         },
         {
-            "id": "skillBlock11",
+            "id": "skillBlock08",
             "content": [
                 "Figma",
                 "Excalidraw",
@@ -217,7 +211,7 @@
             ]
         },
         {
-            "id": "skillBlock12",
+            "id": "skillBlock09",
             "content": [
                 "Ironhack",
                 "freeCodeCamp",
