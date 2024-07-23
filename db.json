@@ -163,7 +163,7 @@
         {
             "id": "skillBlock03",
             "content": [
-                "Sanity Headless CMS",
+                "Sanity CMS",
                 "WordPress"
             ]
         },
@@ -182,7 +182,7 @@
                 "Node.js",
                 "MongoDB",
                 "Express.js",
-                "JSON Server API"
+                "JSON API"
             ]
         },
         {
