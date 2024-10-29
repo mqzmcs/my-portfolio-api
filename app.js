@@ -12,9 +12,18 @@ server.use(morgan("dev"));
 server.use((req, res, next) => {
     res.header("Access-Control-Allow-Origin", "*");
     next();
+// added block
 });
+server.use(
+    jsonServer.rewriter({
+        "/api/*": "/$1",
+    })
+);
 server.use(router);
 
 server.listen(PORT, () => {
     console.log(`JSON Server is running at port ${PORT}`);
 });
+
+// added block
+module.exports = server;
