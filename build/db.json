@@ -1,0 +1,225 @@
+{
+    "images": [
+        {
+            "id": "image01",
+            "name": "Image 1",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1711933057/profile/36623368_10155458682376954_1954617866695213056_n_edited_wvt4bt.jpg",
+            "imageAlt": "A profile image of Alfonso"
+        },
+        {
+            "id": "image02",
+            "name": "Image 2",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1711933059/profile/IMG_0568_edited_dqldwo.jpg",
+            "imageAlt": "A secondary profile image"
+        }
+    ],
+    "profile": [
+        {
+            "id": "paragraph01",
+            "name": "Paragraph 1",
+            "content": "PASSION FOR DEVELOPMENT. I'm a determined developer, constantly ideating and learning, and always striving for clean form, user-friendly interfaces and robust functionality."
+        },
+        {
+            "id": "paragraph02",
+            "name": "Paragraph 2",
+            "content": "TECHNICAL SKILLS AND GROWTH MINDSET. My graduation from Ironhack's full-stack web development program has accelerated my journey into web and software development. I am committed to leveraging my problem-solving skills and collaborative spirit in the world of technology. Beyond technical skills in JavaScript, HTML, CSS, and React.js, I possess a strong work ethic, attention to detail, adaptability, resourcefulness, and a commitment to continuous growth."
+        },
+        {
+            "id": "paragraph03",
+            "name": "Paragraph 3",
+            "content": "BROAD EXPERIENCE AND GLOBAL PERSPECTIVE. My background may seem unconventional, but it has given me unique insights and equipped me with valuable skills. I have a B.A. in International Studies, experience in education, small business operation, team and project management, and voice-over production. I am multilingual and have spent 15 years in Canada, 11 years in Japan, 8 years in the Philippines and 4 years in Spain."
+        }
+    ],
+    "docs": [
+        {
+            "id": "myCV",
+            "name": "View My ATS-Friendly CV Resume",
+            "docURL": "https://docs.google.com/document/d/1bgLD9G4VKvXFuBMaVLa-HGvGagoD8gUE/edit?usp=drive_link&ouid=107347619937020643555&rtpof=true&sd=true"
+        },
+        {
+            "id": "ironhackCertificate",
+            "name": "Ironhack | Full-Stack Web Development Certificate",
+            "docURL": "https://drive.google.com/file/d/119exZm2b59BeKr6Ns8VospQv9dJsEQTZ/view?usp=drive_link"
+        },
+        {
+            "id": "freeCodeCampCertificate01",
+            "name": "freeCodeCamp | Responsive Web Design Developer Certification",
+            "docURL": "https://drive.google.com/file/d/1mXDpYwDRwoKa8rdrv2NSYV-vzB_Uosk9/view?usp=drive_link"
+        },
+        {
+            "id": "microsoftLearn01",
+            "name": "Microsoft Learn | Build JavaScript applications using TypeScript",
+            "docURL": "https://learn.microsoft.com/en-us/users/mqzmcs/achievements/nz7na5vf?ref=https%3A%2F%2Fwww.linkedin.com%2F"
+        }
+    ],
+    "projects": [
+        {
+            "id": "mqzetera",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1711840583/projects/my-portfolio-02_kp4mdg.png",
+            "imageAlt": "Screenshot of my portfolio project",
+            "liveURL": "https://mqzetera.netlify.app/",
+            "clientRepoURL": "https://github.com/mqzmcs/my-portfolio-client",
+            "name": "This Portfolio",
+            "description": "(2024 MAR) I built this portfolio using React for a dynamic front end. It is paired to a RESTful API on a JSON Server configured with Node.js. I chose this option for lightweight data persistence. I intentionally utilize vanilla CSS here to further my understanding of fundamental elements and how they come together. This project is constantly evolving, with possible features like a MongoDB server and user authentication for admin CRUD operations and enhanced backend functionality.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "React",
+                "Create React App",
+                "Node.js",
+                "JSON Server API",
+                "GitHub",
+                "Figma",
+                "Cloudinary",
+                "Netlify",
+                "Adaptable.io"
+            ]
+        },
+        {
+            "id": "exoApp",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1711833191/projects/exo-app-01_x5dwz7.png",
+            "imageAlt": "Screenshot of EXO App: Cosmic Logger project",
+            "liveURL": "https://project-exo-app.netlify.app/",
+            "clientRepoURL": "https://github.com/m02p02/react-json-project02",
+            "name": "EXO App: Cosmic Logger",
+            "description": "(2024 MAR) This is a web app that allows users to create, read, update, and delete locations and their lifeforms to a database. It uses a RESTful API on a JSON Server configured with Node.js to execute CRUD functionality. Future plans include pairing it to a MongoDB server for data permanence. Utilizing React for a dynamic front end and vanilla CSS + React-Bootstrap for style, the aesthetics are meant to evoke a sense of sci-fi nostalgia and dystopian raypunk and dieselpunk tropes: Star Wars meets The Matrix meets Cyberpunk 2077 meets Fallout.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "React-Bootstrap",
+                "React",
+                "Vite",
+                "Node.js",
+                "JSON Server API",
+                "GitHub",
+                "Cloudinary",
+                "Netlify",
+                "Adaptable.io"
+            ]
+        },
+        {
+            "id": "billyBiscuit",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1711836966/projects/billy-biscuit-01_lu0cpe.png",
+            "imageAlt": "Screenshot of Billy Biscuit game project",
+            "liveURL": "https://mqzmcs.github.io/project01game/",
+            "clientRepoURL": "https://github.com/mqzmcs/project01game",
+            "name": "Billy Biscuit: Cookie Collector",
+            "description": "(2024 FEB) Catch falling cookies and dodge enemy sprites in this arcade-style browser game! Featuring collision detection and all graphics made by me using MS Paint and Paint 3D, this game utilizes JavaScript, HTML, vanilla CSS and DOM manipulation. This game showcases my continuously deepening understanding of core programming concepts and DOM manipulation, and it is constantly being worked on and updated as my skills improve.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "OOP",
+                "DOM Manipulation",
+                "GitHub",
+                "GitHub Pages"
+            ]
+        },
+        {
+            "id": "projectLuis",
+            "imageURL": "https://res.cloudinary.com/dr2c3k5gm/image/upload/v1711840152/projects/project-luis-01_opxlbl.png",
+            "imageAlt": "Screenshot of project L.U.I.S.",
+            "liveURL": "https://project-luis.netlify.app/",
+            "clientRepoURL": "https://github.com/project-luis/project-luis-frontend",
+            "name": "Project L.U.I.S.",
+            "description": "(2023 DEC) This collaborative project began as a vehicle to practice and showcase a full MERN stack operation with CRUD functionality and user token authentication.  It is currently set up as a representation of a bootcamp program and technologies directory as navigated by an admin user. Considering what it is meant to execute functionally, it works. Nevertheless, it is a WIP and is currently back in the planning stages.",
+            "technologies": [
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "React-Bootstrap",
+                "React",
+                "Vite",
+                "Node.js",
+                "MongoDB",
+                "Express.js",
+                "GitHub",
+                "Trello",
+                "Excalidraw",
+                "Netlify",
+                "Adaptable.io"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "id": "skillBlock01",
+            "content": [
+                "JavaScript",
+                "TypeScript"
+            ]
+        },
+        {
+            "id": "skillBlock02",
+            "content": [
+                "HTML",
+                "CSS",
+                "React-Bootstrap",
+                "Tailwind CSS"
+            ]
+        },
+        {
+            "id": "skillBlock03",
+            "content": [
+                "Sanity CMS",
+                "WordPress"
+            ]
+        },
+        {
+            "id": "skillBlock04",
+            "content": [
+                "React",
+                "Next.js",
+                "Create React App",
+                "Vite"
+            ]
+        },
+        {
+            "id": "skillBlock05",
+            "content": [
+                "Node.js",
+                "MongoDB",
+                "Express.js",
+                "JSON API"
+            ]
+        },
+        {
+            "id": "skillBlock06",
+            "content": [
+                "Git",
+                "GitHub",
+                "VS Code",
+                "Postman"
+            ]
+        },
+        {
+            "id": "skillBlock07",
+            "content": [
+                "Netlify",
+                "Adaptable.io",
+                "Cloudinary"
+            ]
+        },
+        {
+            "id": "skillBlock08",
+            "content": [
+                "Figma",
+                "Excalidraw",
+                "Trello"
+            ]
+        },
+        {
+            "id": "skillBlock09",
+            "content": [
+                "Ironhack",
+                "freeCodeCamp",
+                "The Odin Project",
+                "Codeacademy",
+                "CS50x",
+                "Codewars"
+            ]
+        }
+    ]
+}
